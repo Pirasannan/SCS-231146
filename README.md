@@ -1,2 +1,2 @@
-hi My name is Pirasanna
+hi My name is Pirasannan
 Studying Computer Science Degree in UCSC
